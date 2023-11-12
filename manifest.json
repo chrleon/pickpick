@@ -1,0 +1,17 @@
+{
+  "name": "pickpick",
+  "id": "1304681633203151658",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "permissions": ["activeusers"],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
