@@ -1,10 +1,13 @@
 {
-  "name": "pickpick",
+  "name": "pluckpluck",
   "id": "1305895608824536494",
   "api": "1.0.0",
   "main": "code.js",
   "capabilities": [],
   "enableProposedApi": false,
+  "parameters": [
+    {"name": "Direction","key":"direction"}
+  ],
   "editorType": [
     "figma"
   ],
