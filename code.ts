@@ -1,5 +1,3 @@
-
-
 // This plugin picks everything on screeen for the user
 const ux: number = Number(figma.activeUsers[0]?.position?.x.toFixed(0))
 const uy: number = Number(figma.activeUsers[0]?.position?.y.toFixed(0))
