@@ -14,3 +14,8 @@ Or do the quick action menu: ctrl/cmd+,
 
 ## Where to test?
 See the figma community file and test it out there.
+
+## Todo
+- [ ] Draw selection vertical or horizontal
+- [ ] Restrict selection to currenr frame if inside frame
+- [ ] Present a filter items list after the selection
